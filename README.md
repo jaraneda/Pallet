@@ -1,2 +1,2 @@
 # Pallet
-WYSIWYG Web doc templating generator
+WYSIWYG doc templating generator
